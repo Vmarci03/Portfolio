@@ -1,0 +1,22 @@
+nav{ 
+    background-color: red;
+}
+main {
+    margin-top: 100px;
+}
+#Kapcsolat {
+    background-color: green;
+    
+}
+.d-inline-flex {
+    background-color: green;
+    font-size: 32px;
+    color: black;
+}
+#h2 {
+    margin-top: 500px;
+}
+body {
+    background-color: black;
+    color: white;
+}
